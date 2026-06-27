@@ -17,6 +17,7 @@
 Arcade Racer 2D is a desktop arcade racing game inspired by classic endless highway racers.
 
 Players must survive increasingly difficult traffic, collect coins, unlock upgrades, activate power-ups, and achieve the highest score while avoiding collisions.
+
 https://rishee01.itch.io/arcade-racer-2d
 
 The project demonstrates real-time rendering, game-loop architecture, object-oriented programming, collision detection, AI, resource management, and Java desktop development.
